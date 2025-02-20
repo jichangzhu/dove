@@ -2,7 +2,7 @@
 最新官网地址：[DOVE加速器官网](https://jcz.affxc.com/dove/)
 
 ## DOVE加速器怎么样？
-大哥云VPN加速器，提供Trojan协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
+DOVE加速器，提供Shadowsocks协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 ## DOVE加速器优惠码
 DOVE加速器优惠码：
